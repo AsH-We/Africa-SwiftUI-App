@@ -1,5 +1,5 @@
 //
-//  headingView.swift
+//  HeadingView.swift
 //  Africa
 //
 //  Created by Abilmansur Ashim on 12.02.2023.
